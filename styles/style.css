@@ -124,3 +124,140 @@ nav li {
     font-size: 20px;
     color: #474747;
 }
+
+/* skills section */
+.what-i-do {
+    margin-bottom: 130px;
+}
+
+.what-i-do-title {
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.what-i-do-description {
+    font-size: 18px;
+    color: #757575;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.skill-container {
+    display: flex;
+    gap: 27px;
+}
+
+.skill {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skill-name {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.skill-description {
+    font-size: 16px;
+    color: #757575;
+}
+
+/* resume section */
+.resume-title {
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+    text-align: center;
+    margin-bottom: 113px;
+}
+
+.contents-container {
+    display: flex;
+    gap: 45px;
+    margin-bottom: 50px;
+}
+
+.content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contents-name {
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+
+.content-title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.content-location {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+.content-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.resume-button {
+    text-align: center;
+    margin-bottom: 113px;
+}
+
+/* contact styles */
+
+.contact-container {
+    display: flex;
+    gap: 124px;
+    background: #FFF8F3;
+    padding: 130px 150px;
+}
+
+.contact-title {
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+}
+
+.contract-description {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #474747;
+    font-size: 16px;
+}
+
+.contact-container a {
+    text-decoration: none;
+    margin-right: 24px;
+}
+
+.contact-container input[type="text"],
+[type="email"],
+textarea {
+    border: 0;
+    margin-bottom: 24px;
+    width: 100%;
+    padding: 18px 30px;
+}
+
+input {
+    height: 64px;
+
+}
